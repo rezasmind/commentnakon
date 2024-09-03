@@ -93,7 +93,7 @@
       <p>
         قدرت گرفته از
         <a
-          href="https://instagram.com/rezasmind"
+          href="https://x.com/rezasmind"
           class="text-green-500 hover:text-green-400 transition-colors duration-300"
         >
           Rezasmind
