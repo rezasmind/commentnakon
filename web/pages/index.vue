@@ -5,7 +5,7 @@
     >
       <div class="w-full max-w-7xl">
         <div class="title flex flex-col items-center mb-6 gap-4">
-          <h1 class="text-4xl font-bold text-center ">کامنت نکن!</h1>
+          <h1 class="text-4xl font-bold text-center">کامنت نکن!</h1>
           <h3 class="text-sm text-gray-400 text-center">
             اگه شماهم خسته شدین از اینکه هی این و اون تو ریلزشون میگن کامنت بذار
             تا فلان چیزو بهت بگم اینجا برای تو ساخته شده!
@@ -20,7 +20,7 @@
           <UInput
             v-model="q"
             name="q"
-            placeholder="لینک ریلز را اینجا وارد کنید..."
+            placeholder="لینک ریلز رو اینجا وارد کنید تا براتون پیدا کنم..."
             icon="i-heroicons-magnifying-glass-20-solid"
             autocomplete="off"
             :ui="{ icon: { trailing: { pointer: '' } } }"
