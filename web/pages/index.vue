@@ -4,8 +4,17 @@
       class="flex-grow flex items-center justify-center px-4 sm:px-6 lg:px-8"
     >
       <div class="w-full max-w-7xl">
-        <h1 class="text-4xl font-bold text-center mb-12">کامنت نکن!</h1>
-
+        <div class="title flex flex-col items-center mb-6 gap-4">
+          <h1 class="text-4xl font-bold text-center ">کامنت نکن!</h1>
+          <h3 class="text-sm text-gray-400 text-center">
+            اگه شماهم خسته شدین از اینکه هی این و اون تو ریلزشون میگن کامنت بذار
+            تا فلان چیزو بهت بگم اینجا برای تو ساخته شده!
+          </h3>
+          <h5 class="text-red-500">
+            این پلتفرم کاملا توسط شما هدایت میشه و من هیچ دستی بر جوابا یا ریلزا
+            نمیبرم!
+          </h5>
+        </div>
         <!-- Search input -->
         <div class="mb-8 flex justify-center">
           <UInput
@@ -91,7 +100,7 @@
     <!-- Footer -->
     <div class="mt-12 py-4 text-center text-sm text-gray-400">
       <p>
-        قدرت گرفته از
+        ساخته شده توسط
         <a
           href="https://x.com/rezasmind"
           class="text-green-500 hover:text-green-400 transition-colors duration-300"
