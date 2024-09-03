@@ -93,10 +93,10 @@
       <p>
         قدرت گرفته از
         <a
-          href="https://akbari.foundation"
+          href="https://instagram.com/rezasmind"
           class="text-green-500 hover:text-green-400 transition-colors duration-300"
         >
-          بنیاد اکبری (Rezasmind)
+          Rezasmind
         </a>
       </p>
     </div>
